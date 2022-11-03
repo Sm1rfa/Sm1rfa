@@ -9,6 +9,12 @@
 - 👑 TDD, MVVM, MVC
 - 🤝 Always open for cooperation
 
+- 🔭 I’m currently working on some random pet projects related with urban data and to improve my .NET skills
+- 🌱 I’m currently learning about Blazor in depth
+- 💬 Ask me about .NET world
+- 📫 How to reach me: contact@sbonchev.eu
+- ⚡ Fun fact: I started as Java developer :)
+
 <!--
 **Sm1rfa/Sm1rfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
