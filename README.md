@@ -36,10 +36,6 @@
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sm1rfa&show_icons=true&include_all_commits=true&theme=radical" alt="Jordan's github stats" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sm1rfa&layout=compact&theme=radical" />
-
 ## 📊 My Github Stats
 <p align="center">
   <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=Sm1rfa&show_icons=true&include_all_commits=true&theme=radical" />
