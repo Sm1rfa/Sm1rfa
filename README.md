@@ -9,7 +9,7 @@
 - 👑 TDD, MVVM, MVC
 - 🤝 Always open for cooperation
 
-
+<br><br><br>
 
 - 🔭 I’m currently working on some random pet projects related with urban data and to improve my .NET skills
 - 🌱 I’m currently learning about Blazor in depth
