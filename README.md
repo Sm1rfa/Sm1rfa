@@ -12,7 +12,8 @@
 <br><br><br>
 
 - 🔭 I’m currently working on some random pet projects related with urban data and to improve my .NET skills
-- 🌱 I’m currently learning about Blazor in depth
+- 🌱 I’m currently learning about Tauri and React
+- T I’m currently working on my novel writting app for Windows/MacOS/Linux/Web with home-trained AI model for Bulgarian grammar check, read more on https://tvorec.sbonchev.eu 
 - 💬 Ask me about .NET world
 - 📫 How to reach me: contact@sbonchev.eu
 - ⚡ Fun fact: I started as Java developer :)
